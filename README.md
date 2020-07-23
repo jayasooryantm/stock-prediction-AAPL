@@ -1,7 +1,6 @@
 # stock-prediction-AAPL
 
-## :warning: Warning!! :warning:
-### Please do not use this model to perform trading. This model is built just for an educational purpose.
+## :warning: Warning!! Please do not use this model to perform trading. This model is built just for an educational purpose.
 
 ### Table of Contents
 * Overview
