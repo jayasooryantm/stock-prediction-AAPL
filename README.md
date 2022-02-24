@@ -13,10 +13,6 @@
 
 A Machine Learning Model for Stock Market Prediction of AAPL (Apple Inc). Stock market prediction is the act of trying to determine the future value of company stock or other financial instrument traded on a financial exchange. An LSTM neural network which could predict the future stock price has been build and trained on top of TensorFlow framework. The LSTM model takes the previous 100 days stock price (closing price) as input and predict the next day price.
 
-### Motivation
-
-I have a keen interest in participating in stock market trading. Since I am not an expert in trading technique I could take any chances to lose my hard-earned money, I consider this as my very first version of trading insight dashboard to see how the stock market works. I would like to expand this project as a fully-fledged stock insight dashboard in future.
-
 ### Technical Aspect
 
 * LSTM architecture has been used to build the model
@@ -43,12 +39,6 @@ import tensorflow as tf
 stockPrice = tf.keras.models.load_model('StockPredictionModel')
 stockPrice.predict(<x_values>)
 ```
-### Technologies Used
-
-* Python
-* Tensorflow
-* Sklearn
-* Jupyter Notebook
 
 ### Credits
 
